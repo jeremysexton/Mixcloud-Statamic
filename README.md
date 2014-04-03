@@ -14,7 +14,7 @@ This is my first Statamic plugin and I have no idea what I'm doing, so use at yo
 
 ##Usage
 
-The plugin is called with {{ mixcloud:mix }}
+The plugin is called with {{ mixcloud }}
 
 The following parameters are all required:
 
@@ -24,4 +24,4 @@ The following parameters are all required:
 
 ##Example
 
-	{{ mixcloud:mix url="http://www.mixcloud.com/TwistedPanda/summer-cruisin-mix/" width="100%" height="400" }}
+	{{ mixcloud url="http://www.mixcloud.com/TwistedPanda/summer-cruisin-mix/" width="100%" height="400" }}
